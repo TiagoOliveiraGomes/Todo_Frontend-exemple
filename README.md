@@ -6,6 +6,8 @@
 
 Uma aplicação para gerenciar em tempo real tarefas e afazeres, onde as tarefaz podem ser adicionadas, marcadas como concluídas ou removidas. 
 
+* [Link para o site](https://todo-exemple-frontend.herokuapp.com/#/todos)
+
 <h2>🧪Tecnologias</h2>
 <h4>Esse projeto foi desenvolvido com as seguintes tecnologias: </h4>
 
